@@ -36,5 +36,5 @@ Implementation:
 markeplace link : https://www.clicshopping.org/forum/files/file/51-modules-footer-page-manager-ordonnate/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_page_manager_ordonate/blob/master/ModuleInfosJson/image.png)
-![image1](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_page_manager_ordonate/blob/master/ModuleInfosJson/image.png)
+![image1](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_page_manager_ordonate/blob/master/ModuleInfosJson/image1.png)
 
