@@ -33,7 +33,7 @@ Implementation:
 
 - Copy the modules_footer_page_manager_ordonate.json into ClicShopping/Work/Cache/Github (manual installation)
 
-markeplace link : https://www.clicshopping.org/forum/files/file/51-modules-footer-page-manager-ordonnate/
+markeplace link : https://www.clicshopping.org/forum/files/file/45-modules-footer-page-manager-ordonnate/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_page_manager_ordonate/blob/master/ModuleInfosJson/image.png)
 ![image1](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_page_manager_ordonate/blob/master/ModuleInfosJson/image1.png)
